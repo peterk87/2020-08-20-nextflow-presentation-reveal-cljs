@@ -299,7 +299,7 @@ process sayHello {
       [:li "Contain command lines or Python/Perl/R/etc code to execute as " [:em "Tasks"]]]
      [:li [:strong "Channels"]
       [:ul
-       [:li "How data is sent to and between " [:em "channels"]]]]]
+       [:li "How data is sent to and between " [:em "Processes"]]]]]
     [:p (img "pipeline-schematic-2.svg" (style-height 4))]]
    [:section data-auto-animate
     [:h3 [:span style-green "Nextflow"] " | Concepts"]
