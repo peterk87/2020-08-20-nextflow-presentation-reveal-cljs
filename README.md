@@ -1,15 +1,20 @@
 # Nextflow Presentation (2020-08-20)
 
+- [View "An Intro to Nextflow" presentation here!](https://peterk87.github.io/2020-08-20-nextflow-presentation-reveal-cljs/)
 
-- Animated terminal SVG using [asciicinema](https://asciinema.org/) and [svg-term](https://github.com/marionebl/svg-term-cli)
 
 
 ## Interesting workflows for microbial bioinformatics
 
 - [Bactopia](https://bactopia.github.io/)
+-
 
+## Dev
 
+- Slides created with [reveal-cljs](https://github.com/n2o/reveal-cljs)
+- Animated terminal SVG using [asciicinema](https://asciinema.org/) and [svg-term](https://github.com/marionebl/svg-term-cli)
 
+Below are the contents for the [reveal-cljs](https://github.com/n2o/reveal-cljs) `README.md`:
 
 # reveal-cljs
 
