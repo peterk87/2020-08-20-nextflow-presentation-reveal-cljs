@@ -3,11 +3,11 @@
 - [View "An Intro to Nextflow" presentation here!](https://peterk87.github.io/2020-08-20-nextflow-presentation-reveal-cljs/)
 
 
-
 ## Interesting workflows for microbial bioinformatics
 
 - [Bactopia](https://bactopia.github.io/)
--
+- [What_the_Phage](https://github.com/replikation/What_the_Phage)
+
 
 ## Dev
 
